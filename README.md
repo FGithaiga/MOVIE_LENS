@@ -58,22 +58,22 @@ This merged dataset forms the foundation for exploratory data analysis (EDA), tr
 # ANALYSIS
 1. Distribution of Bucketized User Age
    
-   ![alt text](image.png)
+   ![alt text](Image/image.png)
 
 
 2. Gender Distribution
    
-  ![alt text](image-1.png)
+  ![alt text](Image/image-1.png)
 
 
 3. Distribution of user ratings
    
-   ![alt text](image-2.png)
+   ![alt text](Image/image-2.png)
 
 
 4 Rating Distributions Across User Occupations
 
-   ![alt text](image-3.png)
+   ![alt text](Image/image-3.png)
 
 # TABLEAU
 
