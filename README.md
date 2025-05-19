@@ -75,7 +75,6 @@ This merged dataset forms the foundation for exploratory data analysis (EDA), tr
 
    ![alt text](Image/image-3.png)
 
-# TABLEAU
 
 # CONCLUSION
 1. Younger users (particularly in the 18–35 age group) form the largest portion of the audience and tend to rate more frequently.
@@ -89,3 +88,6 @@ This merged dataset forms the foundation for exploratory data analysis (EDA), tr
 3. Include temporal patterns (e.g., time of rating), user activity level, and movie popularity metrics to improve the accuracy of predictions.
 4. Address skewed distributions (e.g., rating inflation, gender imbalance) to create more balanced models and better generalizations.
 5. Apply collaborative filtering, content-based filtering, or hybrid recommendation approaches for better personalization.
+
+
+
