@@ -68,7 +68,7 @@ This merged dataset forms the foundation for exploratory data analysis (EDA), tr
 
 3. Distribution of user ratings
    
-   ![alt text](image-5.png)
+   
 
 
 4 Rating Distributions Across User Occupations
